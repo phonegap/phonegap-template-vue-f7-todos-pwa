@@ -1,0 +1,17 @@
+{
+  "name": "TemplateProject",
+  "version": "1.0.0",
+  "description": "This is the project created from the template: cordova_template",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova:template"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "jsonfile": "^2.4.0",
+    "xml2js": "^0.4.17"
+  }
+}

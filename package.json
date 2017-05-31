@@ -1,0 +1,20 @@
+{
+  "name": "phonegap-template-todos-pwa-vue",
+  "version": "0.0.1",
+  "description": "A starter for creating a basic todos app with Vue+F7 and PWA support. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phonegap/phonegap-template-vue-f7-todos-pwa.git"
+  },
+  "homepage": "https://github.com/phonegap/phonegap-template-vue-f7-todos-pwa",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova:template"
+  ],
+  "author": "Adobe PhoneGap Team",
+  "license": "Apache-2.0"
+}
