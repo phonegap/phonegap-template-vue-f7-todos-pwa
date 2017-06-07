@@ -4,11 +4,13 @@ This repo contains a PhoneGap template for a todo app that has been built as bot
 
 ### Screenshots
 ##### Android
-![](app-screenshots-android.png)
+![](android.png)
 
 ##### iOS
-![](app-screenshots-ios.png)
+![](ios.png)
 
+##### PWA - Add to homescreen feature
+![](app-screenshots-android.png)
 
 ### App Stack
 The app was built with [Framework7](http://framework7.io) and [Vue.js](http://vuejs.org).
